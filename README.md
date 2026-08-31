@@ -1,20 +1,20 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,8&height=220&section=header&text=Hyojun%20Cho%20(KRCUPRO)&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20Architect%20%7C%20Full-Stack%20%26%20Native%20Engineer&descAlignY=62&descAlign=50" alt="Header Banner" width="100%" />
+  <img src="./assets/header.svg" alt="Hyojun Cho - KRCUPRO Header" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/KRCUPRO"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=Building+High-Performance+AI+Gateways;Specializing+in+Model+Context+Protocol+(MCP);Architecting+Zero-Loss+Multi-Agent+Systems;Passionate+about+TypeScript%2C+Go%2C+and+Modern+UI" alt="Typing SVG" /></a>
+  <a href="https://github.com/KRCUPRO"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=Building+High-Performance+AI+Gateways;Specializing+in+Model+Context+Protocol+(MCP);Architecting+Zero-Loss+Multi-Agent+Systems;Passionate+about+TypeScript%2C+Go%2C+and+Modern+UI" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/KRCUPRO"><img src="https://img.shields.io/github/followers/KRCUPRO?label=Followers&style=for-the-badge&color=238636&logo=github" alt="Followers" /></a>
-  <a href="https://github.com/KRCUPRO"><img src="https://img.shields.io/badge/Focus-AI_Agent_Infrastructure-8A2BE2?style=for-the-badge&logo=openai" alt="Focus" /></a>
-  <a href="https://github.com/KRCUPRO"><img src="https://img.shields.io/badge/Location-Seoul%2C_South_Korea-blue?style=for-the-badge&logo=googlemaps" alt="Location" /></a>
+  <a href="https://github.com/KRCUPRO"><img src="https://img.shields.io/badge/Role-AI_Systems_Architect-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="Role" /></a>
+  <a href="https://github.com/KRCUPRO"><img src="https://img.shields.io/badge/Specialty-Model_Context_Protocol_(MCP)-FF6F00?style=for-the-badge&logo=anthropic&logoColor=white" alt="Specialty" /></a>
+  <a href="https://github.com/KRCUPRO"><img src="https://img.shields.io/badge/Location-Seoul%2C_South_Korea-00ADD8?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" /></a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Developer Profile
 
 ```typescript
 const engineer: DeveloperProfile = {
@@ -119,19 +119,11 @@ const engineer: DeveloperProfile = {
 
 ---
 
-## 📊 GitHub Analytics & Activity
+## ⚡ Engineering Philosophy & Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KRCUPRO&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRCUPRO&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KRCUPRO&theme=radical&hide_border=true" alt="GitHub Streak" width="96%" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,8&height=100&section=footer" width="100%" />
+  <img src="https://img.shields.io/badge/Zero--Loss_Persistence-Always_Mirrored-success?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sub--Millisecond-Failover_Routing-orange?style=for-the-badge&logo=speedtest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ultra--Lightweight-Go_Native_Tray-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Container_Ready-Docker_%26_NixOS-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
