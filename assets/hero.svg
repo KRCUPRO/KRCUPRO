@@ -1,67 +1,27 @@
-<svg fill="none" viewBox="0 0 900 240" width="900" height="240" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 900 180" width="900" height="180" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#090d16" />
-      <stop offset="50%" stop-color="#0f172a" />
-      <stop offset="100%" stop-color="#030712" />
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117" />
+      <stop offset="100%" stop-color="#161b22" />
     </linearGradient>
-    <linearGradient id="glowGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#38bdf8" />
-      <stop offset="50%" stop-color="#818cf8" />
-      <stop offset="100%" stop-color="#c084fc" />
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58a6ff" />
+      <stop offset="50%" stop-color="#bc8cff" />
+      <stop offset="100%" stop-color="#f0883e" />
     </linearGradient>
   </defs>
 
   <style>
-    .terminal-header { fill: #1e293b; stroke: #334155; stroke-width: 1; }
-    .dot-red { fill: #ef4444; }
-    .dot-yellow { fill: #f59e0b; }
-    .dot-green { fill: #10b981; }
-    .title-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Fira Code', Roboto, monospace; font-weight: 800; font-size: 34px; fill: url(#glowGrad); }
-    .sub-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; fill: #94a3b8; font-weight: 500; }
-    .highlight-pill { fill: rgba(99, 102, 241, 0.15); stroke: rgba(129, 140, 248, 0.4); stroke-width: 1; rx: 6; }
-    .pill-text { font-family: 'Fira Code', monospace; font-size: 11px; fill: #38bdf8; font-weight: 600; }
-    .stat-val { font-family: 'Fira Code', monospace; font-size: 16px; font-weight: 700; fill: #f8fafc; }
-    .stat-lbl { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 11px; fill: #64748b; text-transform: uppercase; letter-spacing: 0.5px; }
+    .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 700; font-size: 38px; fill: url(#textGrad); }
+    .subtitle { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 16px; fill: #8b949e; }
+    .badge { font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace; font-size: 12px; fill: #58a6ff; }
   </style>
 
-  <!-- Background Canvas -->
-  <rect width="900" height="240" rx="16" fill="url(#bgGrad)" stroke="#1e293b" stroke-width="1.5" />
-
-  <!-- Terminal Top Bar -->
-  <path d="M 0 16 Q 0 0 16 0 L 884 0 Q 900 0 900 16 L 900 38 L 0 38 Z" fill="#0f172a" stroke="#1e293b" stroke-width="1" />
-  <circle cx="24" cy="19" r="5.5" class="dot-red" />
-  <circle cx="42" cy="19" r="5.5" class="dot-yellow" />
-  <circle cx="60" cy="19" r="5.5" class="dot-green" />
-  <text x="450" y="24" text-anchor="middle" font-family="'Fira Code', monospace" font-size="11" fill="#64748b">krcupro@developer-workspace: ~</text>
-
-  <!-- Main Hero Title & Status -->
-  <rect x="36" y="58" width="130" height="22" class="highlight-pill" />
-  <text x="44" y="73" class="pill-text">⚡ SYSTEM ONLINE</text>
-
-  <text x="36" y="118" class="title-text">KRCUPRO</text>
-  <text x="36" y="142" class="sub-text">Full-Stack &amp; Cloud-Native Systems Engineer</text>
-
-  <!-- Quick Stat Cards -->
-  <g transform="translate(36, 164)">
-    <!-- Card 1 -->
-    <rect x="0" y="0" width="190" height="54" rx="8" fill="#131c2e" stroke="#1e293b" stroke-width="1" />
-    <text x="14" y="24" class="stat-val">Cloud Native</text>
-    <text x="14" y="42" class="stat-lbl">Kubernetes &amp; NixOS</text>
-
-    <!-- Card 2 -->
-    <rect x="204" y="0" width="190" height="54" rx="8" fill="#131c2e" stroke="#1e293b" stroke-width="1" />
-    <text x="218" y="24" class="stat-val">High Performance</text>
-    <text x="218" y="42" class="stat-lbl">Go &amp; TypeScript</text>
-
-    <!-- Card 3 -->
-    <rect x="408" y="0" width="190" height="54" rx="8" fill="#131c2e" stroke="#1e293b" stroke-width="1" />
-    <text x="422" y="24" class="stat-val">Containerization</text>
-    <text x="422" y="42" class="stat-lbl">Docker &amp; CI/CD</text>
-
-    <!-- Card 4 -->
-    <rect x="612" y="0" width="216" height="54" rx="8" fill="#131c2e" stroke="#1e293b" stroke-width="1" />
-    <text x="626" y="24" class="stat-val">Modern Web</text>
-    <text x="626" y="42" class="stat-lbl">React &amp; Next-Gen Tooling</text>
+  <rect width="900" height="180" rx="12" fill="url(#bg)" stroke="#30363d" stroke-width="1" />
+  
+  <g transform="translate(48, 50)">
+    <text x="0" y="0" class="badge">👋 Hello, world! I am</text>
+    <text x="0" y="42" class="title">KRCUPRO</text>
+    <text x="0" y="76" class="subtitle">Software Engineer &amp; Tech Enthusiast based in Seoul.</text>
   </g>
 </svg>
