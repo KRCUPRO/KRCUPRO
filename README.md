@@ -1,3 +1,11 @@
+<p align="right">
+  <strong>🌐 Languages:</strong>
+  <a href="./README.md"><strong>🇺🇸 English</strong></a> |
+  <a href="./README.ko.md">🇰🇷 한국어</a> |
+  <a href="./README.ja.md">🇯🇵 日本語</a> |
+  <a href="./README.zh.md">🇨🇳 简体中文</a>
+</p>
+
 <div align="center">
   <a href="https://github.com/KRCUPRO">
     <img src="./assets/hero.svg" alt="KRCUPRO Hero Banner" width="100%" />
