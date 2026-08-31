@@ -7,7 +7,9 @@
 </p>
 
 <div align="center">
-  <img src="./assets/hero.svg" alt="KRCUPRO Hero Banner" width="100%" />
+  <a href="https://github.com/KRCUPRO">
+    <img src="./assets/hero.svg" alt="KRCUPRO Hero Banner" width="100%" />
+  </a>
 </div>
 
 <br />
@@ -42,7 +44,9 @@ Hi! I'm a developer who enjoys building reliable systems, exploring new technolo
 ### 📌 Overview & Focus
 
 <div align="center">
-  <img src="./assets/stats.svg" alt="Focus and Capabilities" width="100%" />
+  <a href="https://github.com/KRCUPRO">
+    <img src="./assets/stats.svg" alt="Focus and Capabilities" width="100%" />
+  </a>
 </div>
 
 ---
