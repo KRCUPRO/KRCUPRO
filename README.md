@@ -65,39 +65,53 @@ const engineer: DeveloperProfile = {
 
 ---
 
-## 🚀 Featured Open Source Projects
+## 🚀 Featured AI Gateway Projects
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🧵 <a href="https://github.com/KRCUPRO/Stitch_MAS_Gateway">Stitch_MAS_Gateway</a></h3>
-      <p><strong>Google Stitch Multi-Key MCP Gateway & Native Dashboard</strong></p>
+    <td width="33%" valign="top">
+      <h3>🧵 <a href="https://github.com/KRCUPRO/Stitch_MAS_Gateway">Stitch MAS Gateway</a></h3>
+      <p><strong>Google Stitch Multi-Key MCP Gateway</strong></p>
       <ul>
-        <li>Google Stitch 다중 API 키 풀링 및 $N \times 400$ RPD 쿼터 합산</li>
-        <li>0.01초 무중단 429 페일오버 및 Zero-Loss 로컬 미러 캐시</li>
-        <li>21종 풀세트 MCP 도구 지원 & 5.8MB Go 초경량 시스템 트레이 런처</li>
+        <li>Google Stitch 다중 API 키 풀링 및 <strong>N × 400 RPD</strong> 쿼터 합산</li>
+        <li>0.01초 무중단 429 페일오버 & Zero-Loss 로컬 미러 캐시</li>
+        <li>21종 풀세트 MCP 도구 지원 & 5.8MB Go 트레이 런처</li>
         <li>Docker (Server / Client) 및 NixOS Flake 완벽 지원</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/KRCUPRO/Google_AI_Studio_MAS_Gateway">Google_AI_Studio_MAS_Gateway</a></h3>
-      <p><strong>Google AI Studio Multi-Key Gateway & Proxy Manager</strong></p>
+    <td width="33%" valign="top">
+      <h3>⚡ <a href="https://github.com/KRCUPRO/Google_AI_Studio_MAS_Gateway">AI Studio Gateway</a></h3>
+      <p><strong>Google AI Studio Multi-Key Proxy</strong></p>
       <ul>
-        <li>15 RPM / 1,500 RPD 슬라이딩 윈도우 정밀 감쇄 & 429 선제 임계치 우회</li>
-        <li>OpenAI (<code>/v1/chat/completions</code>) & Claude (<code>/v1/messages</code>) 호환 양방향 프록시</li>
+        <li>15 RPM / 1,500 RPD 슬라이딩 윈도우 감쇄 & 429 선제 임계치 우회</li>
+        <li>OpenAI (<code>/v1/chat/completions</code>) & Claude (<code>/v1/messages</code>) 프록시</li>
         <li>Gemini 2.0 Thinking CoT 및 Imagen 3 20종 MCP 도구</li>
-        <li>Windows 11 Fluent 대시보드 및 원클릭 콘솔 매니저</li>
+        <li>Windows 11 Fluent 대시보드 및 Docker 배포</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Gemini_2.0-8E75B2?style=flat-square&logo=google&logoColor=white" />
         <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>📚 <a href="https://github.com/KRCUPRO/NotebookLM_Gateway">NotebookLM Gateway</a></h3>
+      <p><strong>NotebookLM Multi-Session Studio</strong></p>
+      <ul>
+        <li>batchexecute RPC 프로토콜 바인딩 & SAPISIDHASH 자동 서명</li>
+        <li>50만 토큰 다중 소스 RAG 질의 & Deep Research 파이프라인</li>
+        <li>오디오 팟캐스트(Audio Overview) 생성 & 25종 풀 MCP 도구</li>
+        <li>Windows 11 네이티브 Fluent Studio UI 탑재</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/NotebookLM-4285F4?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/MCP-25_Tools-orange?style=flat-square&logo=anthropic&logoColor=white" />
       </p>
     </td>
   </tr>
