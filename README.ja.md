@@ -12,16 +12,32 @@
   </a>
 </div>
 
-<br />
+<p align="center">
+  <a href="https://github.com/KRCUPRO">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1200&color=00D2FF&center=true&vCenter=true&width=750&lines=Building+Reliable+Backend+%26+Cloud-Native+Systems;Automating+Declarative+Infrastructure+with+NixOS+%26+K8s;Turning+Complex+Problems+into+Simple%2C+Elegant+Code;Crafting+Performant+Microservices+in+Go+%26+TypeScript" alt="Typing SVG" />
+  </a>
+</p>
+
+---
+
+### 🖥️ 開発者ターミナル (Developer Terminal)
+
+<div align="center">
+  <a href="https://github.com/KRCUPRO">
+    <img src="./assets/terminal.svg" alt="Developer Terminal" width="100%" />
+  </a>
+</div>
+
+---
 
 ### 💡 プロフィール (About Me)
 
-はじめまして！信頼性の高いシステム構築とシンプルな設計を大切にしているエンジニア **KRCUPRO** です。
+はじめまして！堅牢なシステム設計とシンプルなエンジニアリングを追求する開発者 **KRCUPRO** です。
 
-- 🔭 主にバックエンド開発、コンテナオーケストレーション、クラウドインフラに関心を持っています。
-- ⚡ **Go**、**TypeScript**、**Docker**、**NixOS** などを好んで使用しています。
-- 🛠️ 開発の効率化を図る自動化ツールや軽量なユーティリティの開発を楽しんでいます。
-- 🌱 常に新しい技術をキャッチアップし、実際のプロダクトに活かすことを心がけています。
+- 🔭 **注力分野**: 高並行バックエンド、分散システム、クラウドネイティブインフラの構築。
+- ⚡ **開発環境**: **Go**、**TypeScript**、**Docker**、**NixOS** を中心に活用。
+- 🛠️ **信条**: シンプルさと自動化を通じて、信頼性の高いソフトウェアを提供すること。
+- 🌱 **継続的な成長**: 新しい技術スタックを迅速に吸収し、実用的なソリューションへと昇華させます。
 
 ---
 
@@ -30,18 +46,18 @@
 **Languages**  
 `Go` · `TypeScript` · `JavaScript` · `Python` · `Shell Script` · `SQL`
 
-**Backend & APIs**  
-`Node.js` · `Express` · `REST APIs` · `gRPC` · `WebSocket`
+**Backend & Architecture**  
+`Node.js` · `Express` · `RESTful APIs` · `gRPC` · `WebSocket` · `Microservices`
 
-**Frontend**  
+**Frontend & UI**  
 `React` · `Vite` · `Tailwind CSS` · `HTML5 / CSS3`
 
-**DevOps & Infra**  
-`Docker` · `Docker Compose` · `Kubernetes` · `NixOS / Nix Flakes` · `GitHub Actions` · `Linux`
+**Cloud & Infrastructure**  
+`Docker` · `Docker Compose` · `Kubernetes` · `NixOS / Flakes` · `GitHub Actions` · `Linux`
 
 ---
 
-### 📌 注力分野 (Overview & Focus)
+### 📌 専門性と注力領域 (Architecture & Focus)
 
 <div align="center">
   <a href="https://github.com/KRCUPRO">
@@ -53,4 +69,6 @@
 
 <p align="center">
   <i>"Simplicity is prerequisite for reliability."</i>
+  <br /><br />
+  <sub>Designed &amp; Maintained by <strong>KRCUPRO</strong></sub>
 </p>

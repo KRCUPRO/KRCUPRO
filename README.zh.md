@@ -12,16 +12,32 @@
   </a>
 </div>
 
-<br />
+<p align="center">
+  <a href="https://github.com/KRCUPRO">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1200&color=00D2FF&center=true&vCenter=true&width=750&lines=Building+Reliable+Backend+%26+Cloud-Native+Systems;Automating+Declarative+Infrastructure+with+NixOS+%26+K8s;Turning+Complex+Problems+into+Simple%2C+Elegant+Code;Crafting+Performant+Microservices+in+Go+%26+TypeScript" alt="Typing SVG" />
+  </a>
+</p>
+
+---
+
+### 🖥️ 交互式终端 (Interactive Terminal)
+
+<div align="center">
+  <a href="https://github.com/KRCUPRO">
+    <img src="./assets/terminal.svg" alt="Developer Terminal" width="100%" />
+  </a>
+</div>
+
+---
 
 ### 💡 关于我 (About Me)
 
-你好！我是 **KRCUPRO**，一名热衷于构建高可靠性系统与优雅架构的软件工程师。
+你好！我是 **KRCUPRO**，专注于构建高可用架构与云原生系统。
 
-- 🔭 目前专注于后端开发、容器编排及云原生基础设施。
-- ⚡ 熟练使用 **Go**、**TypeScript**、**Docker** 和 **NixOS**。
-- 🛠️ 喜欢编写自动化脚本与轻量实用的开发者工具。
-- 🌱 保持对新技术的探索与实践，不断优化系统架构。
+- 🔭 **当前重点**: 高并发后端服务、分布式架构与高可靠基础设施。
+- ⚡ **主力工具**: **Go**、**TypeScript**、**Docker**、**NixOS**。
+- 🛠️ **工程哲学**: 追求简约、自动化与天生可靠的系统设计。
+- 🌱 **持续探索**: 紧跟前沿技术，热衷于构建高效实用的工程工具。
 
 ---
 
@@ -30,18 +46,18 @@
 **Languages**  
 `Go` · `TypeScript` · `JavaScript` · `Python` · `Shell Script` · `SQL`
 
-**Backend & APIs**  
-`Node.js` · `Express` · `REST APIs` · `gRPC` · `WebSocket`
+**Backend & Architecture**  
+`Node.js` · `Express` · `RESTful APIs` · `gRPC` · `WebSocket` · `Microservices`
 
-**Frontend**  
+**Frontend & UI**  
 `React` · `Vite` · `Tailwind CSS` · `HTML5 / CSS3`
 
-**DevOps & Infra**  
-`Docker` · `Docker Compose` · `Kubernetes` · `NixOS / Nix Flakes` · `GitHub Actions` · `Linux`
+**Cloud & Infrastructure**  
+`Docker` · `Docker Compose` · `Kubernetes` · `NixOS / Flakes` · `GitHub Actions` · `Linux`
 
 ---
 
-### 📌 核心关注与能力 (Overview & Focus)
+### 📌 核心能力与关注 (Architecture & Focus)
 
 <div align="center">
   <a href="https://github.com/KRCUPRO">
@@ -53,4 +69,6 @@
 
 <p align="center">
   <i>"Simplicity is prerequisite for reliability."</i>
+  <br /><br />
+  <sub>Designed &amp; Maintained by <strong>KRCUPRO</strong></sub>
 </p>
