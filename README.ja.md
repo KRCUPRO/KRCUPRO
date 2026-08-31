@@ -19,7 +19,7 @@
 - 🔭 主にバックエンド開発、コンテナオーケストレーション、クラウドインフラに関心を持っています。
 - ⚡ **Go**、**TypeScript**、**Docker**、**NixOS** などを好んで使用しています。
 - 🛠️ 開発の効率化を図る自動化ツールや軽量なユーティリティの開発を楽しんでいます。
-- 🌱 常に新しい技術をキャ치アップし、実際のプロダクトに活かすことを心がけています。
+- 🌱 常に新しい技術をキャッチアップし、実際のプロダクトに活かすことを心がけています。
 
 ---
 
@@ -39,11 +39,10 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📌 注力分野 (Overview & Focus)
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=KRCUPRO&show_icons=true&theme=tokyonight&hide_border=true&title_color=58a6ff&icon_color=bc8cff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KRCUPRO&layout=compact&theme=tokyonight&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+  <img src="./assets/stats.svg" alt="Focus and Capabilities" width="100%" />
 </div>
 
 ---

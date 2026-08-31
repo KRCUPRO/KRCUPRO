@@ -1,0 +1,93 @@
+<svg fill="none" viewBox="0 0 900 200" width="900" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117" />
+      <stop offset="100%" stop-color="#161b22" />
+    </linearGradient>
+    <linearGradient id="blueGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58a6ff" />
+      <stop offset="100%" stop-color="#38bdf8" />
+    </linearGradient>
+    <linearGradient id="purpleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#bc8cff" />
+      <stop offset="100%" stop-color="#a855f7" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .card-title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 15px; font-weight: 600; fill: #58a6ff; }
+    .card-title-p { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 15px; font-weight: 600; fill: #bc8cff; }
+    .item-title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; font-weight: 600; fill: #e6edf3; }
+    .item-desc { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; fill: #8b949e; }
+    .badge-pill { rx: 4; fill: #21262d; stroke: #30363d; stroke-width: 1; }
+    .badge-txt { font-family: ui-monospace, SFMono-Regular, monospace; font-size: 11px; fill: #79c0ff; }
+  </style>
+
+  <!-- Left Column: Core Focus -->
+  <g transform="translate(0, 0)">
+    <rect width="435" height="200" rx="10" fill="url(#cardBg)" stroke="#30363d" stroke-width="1" />
+    
+    <text x="24" y="36" class="card-title">⚡ Focus Areas &amp; Architecture</text>
+    
+    <circle cx="32" cy="70" r="4" fill="#58a6ff" />
+    <text x="46" y="74" class="item-title">Cloud-Native &amp; Containerization</text>
+    <text x="46" y="92" class="item-desc">Docker, Kubernetes &amp; NixOS declarative deployments</text>
+
+    <circle cx="32" cy="120" r="4" fill="#58a6ff" />
+    <text x="46" y="124" class="item-title">High-Performance Backends</text>
+    <text x="46" y="142" class="item-desc">Low-latency APIs, Rate-limiting &amp; Concurrency in Go/Node</text>
+
+    <circle cx="32" cy="170" r="4" fill="#58a6ff" />
+    <text x="46" y="174" class="item-title">Developer Tooling &amp; Productivity</text>
+    <text x="46" y="190" class="item-desc">CLI utilities, Protocol integrations &amp; Automations</text>
+  </g>
+
+  <!-- Right Column: Engineering Highlights -->
+  <g transform="translate(465, 0)">
+    <rect width="435" height="200" rx="10" fill="url(#cardBg)" stroke="#30363d" stroke-width="1" />
+    
+    <text x="24" y="36" class="card-title-p">🛠️ Key Capabilities</text>
+
+    <!-- Row 1 -->
+    <g transform="translate(24, 60)">
+      <rect width="90" height="26" class="badge-pill" />
+      <text x="45" y="17" text-anchor="middle" class="badge-txt">Go / Node.js</text>
+      
+      <rect x="100" width="105" height="26" class="badge-pill" />
+      <text x="152" y="17" text-anchor="middle" class="badge-txt">TypeScript</text>
+
+      <rect x="215" width="85" height="26" class="badge-pill" />
+      <text x="257" y="17" text-anchor="middle" class="badge-txt">React / Vite</text>
+
+      <rect x="310" width="95" height="26" class="badge-pill" />
+      <text x="357" y="17" text-anchor="middle" class="badge-txt">TailwindCSS</text>
+    </g>
+
+    <!-- Row 2 -->
+    <g transform="translate(24, 100)">
+      <rect width="115" height="26" class="badge-pill" />
+      <text x="57" y="17" text-anchor="middle" class="badge-txt">NixOS / Flakes</text>
+
+      <rect x="125" width="85" height="26" class="badge-pill" />
+      <text x="167" y="17" text-anchor="middle" class="badge-txt">Docker</text>
+
+      <rect x="220" width="105" height="26" class="badge-pill" />
+      <text x="272" y="17" text-anchor="middle" class="badge-txt">Kubernetes</text>
+
+      <rect x="335" width="70" height="26" class="badge-pill" />
+      <text x="370" y="17" text-anchor="middle" class="badge-txt">GitOps</text>
+    </g>
+
+    <!-- Row 3 -->
+    <g transform="translate(24, 140)">
+      <rect width="125" height="26" class="badge-pill" />
+      <text x="62" y="17" text-anchor="middle" class="badge-txt">CI/CD Pipelines</text>
+
+      <rect x="135" width="130" height="26" class="badge-pill" />
+      <text x="200" y="17" text-anchor="middle" class="badge-txt">System Architecture</text>
+
+      <rect x="275" width="130" height="26" class="badge-pill" />
+      <text x="340" y="17" text-anchor="middle" class="badge-txt">Protocol Design</text>
+    </g>
+  </g>
+</svg>
