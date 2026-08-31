@@ -1,0 +1,123 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,8&height=220&section=header&text=Hyojun%20Cho%20(KRCUPRO)&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20Architect%20%7C%20Full-Stack%20%26%20Native%20Engineer&descAlignY=62&descAlign=50" alt="Header Banner" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/KRCUPRO"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=Building+High-Performance+AI+Gateways;Specializing+in+Model+Context+Protocol+(MCP);Architecting+Zero-Loss+Multi-Agent+Systems;Passionate+about+TypeScript%2C+Go%2C+and+Modern+UI" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/KRCUPRO"><img src="https://img.shields.io/github/followers/KRCUPRO?label=Followers&style=for-the-badge&color=238636&logo=github" alt="Followers" /></a>
+  <a href="https://github.com/KRCUPRO"><img src="https://img.shields.io/badge/Focus-AI_Agent_Infrastructure-8A2BE2?style=for-the-badge&logo=openai" alt="Focus" /></a>
+  <a href="https://github.com/KRCUPRO"><img src="https://img.shields.io/badge/Location-Seoul%2C_South_Korea-blue?style=for-the-badge&logo=googlemaps" alt="Location" /></a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+```typescript
+const engineer: DeveloperProfile = {
+  name: "조효준 (Hyojun Cho)",
+  handle: "KRCUPRO",
+  role: "AI Systems Architect & Full-Stack / Native Engineer",
+  passions: [
+    "High-Concurrency AI Gateway Architecture",
+    "Model Context Protocol (MCP) Ecosystem",
+    "Zero-Loss Data Mirroring & Real-Time Sliding Quota Systems",
+    "Ultra-Lightweight Desktop Applications (Go / Webview / Native)"
+  ],
+  currentFocus: "Engineering Autonomous Multi-Agent Workflows & High-Throughput LLM Proxies"
+};
+```
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### 💻 Languages & Core
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+### 🌐 Frontend & UI Engineering
+<p>
+  <img src="https://img.shields.io/badge/React_18-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
+
+### ⚡ Backend, DevOps & AI Tooling
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Model_Context_Protocol_(MCP)-FF6F00?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Featured Open Source Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧵 <a href="https://github.com/KRCUPRO/Stitch_MAS_Gateway">Stitch_MAS_Gateway</a></h3>
+      <p><strong>Google Stitch Multi-Key MCP Gateway & Native Dashboard</strong></p>
+      <ul>
+        <li>Google Stitch 다중 API 키 풀링 및 $N \times 400$ RPD 쿼터 합산</li>
+        <li>0.01초 무중단 429 페일오버 및 Zero-Loss 로컬 미러 캐시</li>
+        <li>21종 풀세트 MCP 도구 지원 & 5.8MB Go 초경량 시스템 트레이 런처</li>
+        <li>Docker (Server / Client) 및 NixOS Flake 완벽 지원</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/KRCUPRO/Google_AI_Studio_MAS_Gateway">Google_AI_Studio_MAS_Gateway</a></h3>
+      <p><strong>Google AI Studio Multi-Key Gateway & Proxy Manager</strong></p>
+      <ul>
+        <li>15 RPM / 1,500 RPD 슬라이딩 윈도우 정밀 감쇄 & 429 선제 임계치 우회</li>
+        <li>OpenAI (<code>/v1/chat/completions</code>) & Claude (<code>/v1/messages</code>) 호환 양방향 프록시</li>
+        <li>Gemini 2.0 Thinking CoT 및 Imagen 3 20종 MCP 도구</li>
+        <li>Windows 11 Fluent 대시보드 및 원클릭 콘솔 매니저</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini_2.0-8E75B2?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KRCUPRO&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRCUPRO&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KRCUPRO&theme=radical&hide_border=true" alt="GitHub Streak" width="96%" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,8&height=100&section=footer" width="100%" />
+</p>
