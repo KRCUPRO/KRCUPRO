@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://github.com/KRCUPRO">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+Reliable+Backend+%26+Cloud-Native+Systems;Automating+Declarative+Infrastructure+with+NixOS+%26+Kubernetes;Turning+Complex+Problems+into+Clean%2C+Maintainable+Code;Crafting+Performant+Microservices+in+Go+%26+TypeScript" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=880&lines=Architecting+Bare-Metal+NixOS+Clusters+%26+FluxCD+GitOps;Engineering+High-Throughput+AI+Gateways+%26+MCP+Runtimes;Deploying+Distributed+Storage+with+Rook+Ceph+%26+Kubernetes;Building+Reliable+Systems+with+Go%2C+Rust+%26+TypeScript" alt="Typing SVG" />
   </a>
 </p>
 
@@ -31,23 +31,51 @@
 
 <br />
 
-### 💡 About Me
+### 💡 Executive Overview
 
-Hey there! I am **KRCUPRO**, a software engineer passionate about clean code, high-throughput systems, and declarative infrastructure.
+Hi, I am **KRCUPRO (조효준)** — a Systems & Cloud-Native Platform Engineer specializing in declarative bare-metal infrastructure, distributed storage, high-throughput AI gateways, and autonomous agent runtimes.
 
-- 🔭 **Focus**: Architecting scalable microservices, low-latency APIs, and resilient container platforms.
-- ⚡ **Stack**: Deeply invested in **Go**, **TypeScript**, **Docker**, and **NixOS**.
-- 🛠️ **Philosophy**: I value simplicity, automation, and building systems that are robust by design.
-- 🌱 **Learning**: Constantly exploring emerging tech, optimizing system performance, and refining developer tooling.
+I design systems where **declarative reproducibility meets high-performance execution**: from 4-node physical NixOS clusters running Ceph storage to native Go supervisors steering distributed MCP pipelines and zero-downtime microservices.
 
 ---
 
-### 💻 Tech Stack
+### 🏛️ Engineering Pillars & Core Architectures
 
-- **Languages:** `Go`, `TypeScript`, `JavaScript`, `Python`, `Shell Script`, `SQL`
-- **Backend & APIs:** `Node.js`, `Express`, `RESTful APIs`, `gRPC`, `WebSocket`, `Microservices`
-- **Frontend & UI:** `React`, `Vite`, `Tailwind CSS`, `HTML5 / CSS3`
-- **Cloud & DevOps:** `Docker`, `Docker Compose`, `Kubernetes`, `NixOS / Flakes`, `GitHub Actions`, `Linux`
+#### 1. 🌐 Bare-Metal Infrastructure & Declarative GitOps
+- **4-Node Physical Cluster (`myu`)**: Designed and operating a bare-metal Kubernetes cluster orchestrated via NixOS Flakes (`ken` control plane, `decker`, `calder`, `usher` worker nodes).
+- **GitOps Continuous Delivery**: Fully automated cluster-wide reconciliation using **FluxCD**, managing CNIs, dual-ingress controllers, and automated TLS lifecycle.
+- **Distributed Storage**: Production-grade **Rook Ceph** integration providing highly available block and shared filesystem volumes across physical NVMe/SSD disks.
+
+#### 2. ⚡ AI Gateways, MCP Protocols & Autonomous Runtimes
+- **Enterprise AI Gateways**: High-concurrency reverse proxy and model routing engines (`myu-gateway`, `mcp-gateway`) featuring token quota enforcement, channel load-balancing, and sub-5ms failover.
+- **Native Agent Supervisors**: Windows-native agent architectures with **Go process supervisors**, blue/green Python worker isolation, and idempotent tool calling engines.
+- **Model Context Protocol (MCP)**: Chaining and orchestrating distributed MCP servers with hardware-backed DPAPI security and edge Cloudflare routing.
+
+#### 3. 🛡️ Systems Forensics & Active Infrastructure Defense
+- **SecOps & Audit Dashboards**: Real-time multi-node cluster telemetry, SSH session auditing, and active mitigation suites.
+- **Zero-Dependency Systems Research**: Rigorous cryptography implementations (AEAD, Ed25519, constant-time validation) and zero-allocation binary forensics (`dev-timeline`).
+
+---
+
+### 💻 Comprehensive Technology Stack
+
+| Domain | Core Technologies & Tooling |
+| :--- | :--- |
+| **Languages & Runtimes** | `Go`, `Rust`, `TypeScript`, `Nix`, `Python`, `Shell (Bash / PowerShell)`, `SQL` |
+| **Cloud-Native & Orchestration** | `Kubernetes (Kubeadm)`, `NixOS Flakes`, `FluxCD (GitOps)`, `Rook Ceph`, `Docker / Compose`, `Containerd` |
+| **AI Gateways & Protocols** | `Model Context Protocol (MCP)`, `Claude Code Router (CCR)`, `REST / gRPC`, `WebSocket`, `Webhooks` |
+| **Edge, Ingress & Networking** | `Cloudflare Workers / D1 / Queues`, `Nginx`, `WireGuard`, `PCAP / Packet Forensics` |
+| **Observability & Security** | `Cluster Telemetry Dashboards`, `SSH Audit Systems`, `Active Defense`, `Constant-Time Cryptography` |
+
+---
+
+### 📁 Featured Systems & Architectural Repositories
+
+- **[`kuber-nixos-config`](https://github.com/KRCUPRO/kuber-nixos-config)** — Declarative host foundation for the 4-node `myu` cluster (NixOS flakes, Ceph prep, Kubeadm orchestration).
+- **[`kuber-infrastructure`](https://github.com/KRCUPRO/kuber-infrastructure)** — FluxCD GitOps repository managing CNI, Ingress, storage classes, and cluster-wide workloads.
+- **[`chatgpt-windows-work`](https://github.com/KRCUPRO/chatgpt-windows-work)** — Native MCP runtime with Go process supervisor, blue/green workers, and Cloudflare ingress.
+- **[`ui-reference-screens`](https://github.com/KRCUPRO/ui-reference-screens)** — Standalone operations console and architectural reference screens for enterprise API gateways.
+- **[`dev-timeline`](https://github.com/KRCUPRO/dev-timeline)** — Systems research journal and pure zero-dependency cryptography/forensics commit ledger (2022–present).
 
 ---
 
@@ -57,5 +85,5 @@ Hey there! I am **KRCUPRO**, a software engineer passionate about clean code, hi
   </a>
 
   <br /><br />
-  <sub><i>"Simplicity is prerequisite for reliability."</i></sub>
+  <sub><i>"Simplicity is prerequisite for reliability. Declarative state is prerequisite for serenity."</i></sub>
 </div>
