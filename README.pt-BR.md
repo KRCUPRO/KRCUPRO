@@ -39,6 +39,10 @@ Projeto sistemas onde **a reprodutibilidade declarativa encontra o desempenho ex
 
 ---
 
+<p align="center">
+  <img src="./assets/architecture-pt-br.svg" alt="Architecture Diagram" width="100%">
+</p>
+
 ### 🏛️ Pilares de Engenharia e Arquitetura
 
 #### 1. 🌐 Infraestrutura Bare-Metal e GitOps Declarativo
