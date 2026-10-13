@@ -39,6 +39,10 @@
 
 ---
 
+<p align="center">
+  <img src="./assets/architecture-ja.svg" alt="Architecture Diagram" width="100%">
+</p>
+
 ### 🏛️ コアエンジニアリング領域 & アーキテクチャ
 
 #### 1. 🌐 ベアメタルインフラ & 宣言型GitOps
