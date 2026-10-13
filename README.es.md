@@ -39,6 +39,10 @@ Diseño sistemas donde **la reproducibilidad declarativa se une al máximo rendi
 
 ---
 
+<p align="center">
+  <img src="./assets/architecture-es.svg" alt="Architecture Diagram" width="100%">
+</p>
+
 ### 🏛️ Pilares de Ingeniería y Arquitecturas Centrales
 
 #### 1. 🌐 Infraestructura Bare-Metal y GitOps Declarativo
