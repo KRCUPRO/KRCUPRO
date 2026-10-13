@@ -39,6 +39,10 @@ I design systems where **declarative reproducibility meets high-performance exec
 
 ---
 
+<p align="center">
+  <img src="./assets/architecture-en.svg" alt="Architecture Diagram" width="100%">
+</p>
+
 ### 🏛️ Engineering Pillars & Core Architectures
 
 #### 1. 🌐 Bare-Metal Infrastructure & Declarative GitOps
