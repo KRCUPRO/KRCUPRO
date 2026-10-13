@@ -39,6 +39,10 @@
 
 ---
 
+<p align="center">
+  <img src="./assets/architecture-ar.svg" alt="Architecture Diagram" width="100%">
+</p>
+
 ### 🏛️ ركائز الهندسة والهياكل الأساسية
 
 #### 1. 🌐 البنية التحتية للعتاد الفعلي و GitOps التصريحي
