@@ -39,6 +39,10 @@
 
 ---
 
+<p align="center">
+  <img src="./assets/architecture-ko.svg" alt="Architecture Diagram" width="100%">
+</p>
+
 ### 🏛️ 핵심 엔지니어링 기둥 & 아키텍처 (Pillars)
 
 #### 1. 🌐 베어메탈 인프라 & 선언적 GitOps
