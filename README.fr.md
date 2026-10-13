@@ -39,6 +39,10 @@ Je conçois des systèmes où **la reproductibilité déclarative rencontre les 
 
 ---
 
+<p align="center">
+  <img src="./assets/architecture-fr.svg" alt="Architecture Diagram" width="100%">
+</p>
+
 ### 🏛️ Piliers d'Ingénierie & Architectures
 
 #### 1. 🌐 Infrastructure Bare-Metal & GitOps Déclaratif
