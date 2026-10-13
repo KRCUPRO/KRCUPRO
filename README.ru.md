@@ -39,6 +39,10 @@
 
 ---
 
+<p align="center">
+  <img src="./assets/architecture-ru.svg" alt="Architecture Diagram" width="100%">
+</p>
+
 ### 🏛️ Ключевые инженерные направления и архитектура
 
 #### 1. 🌐 Bare-Metal инфраструктура и декларативный GitOps
