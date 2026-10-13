@@ -1,10 +1,16 @@
 <div align="center">
 
-<p>
+<p align="center">
   <a href="./README.md"><strong>🇺🇸 English</strong></a> &nbsp;•&nbsp;
   <a href="./README.ko.md"><strong>🇰🇷 한국어</strong></a> &nbsp;•&nbsp;
   <a href="./README.ja.md"><strong>🇯🇵 日本語</strong></a> &nbsp;•&nbsp;
-  <a href="./README.zh.md"><strong>🇨🇳 简体中文</strong></a>
+  <a href="./README.zh.md"><strong>🇨🇳 简体中文</strong></a> &nbsp;•&nbsp;
+  <a href="./README.es.md"><strong>🇪🇸 Español</strong></a><br />
+  <a href="./README.fr.md"><strong>🇫🇷 Français</strong></a> &nbsp;•&nbsp;
+  <a href="./README.de.md"><strong>🇩🇪 Deutsch</strong></a> &nbsp;•&nbsp;
+  <a href="./README.ru.md"><strong>🇷🇺 Русский</strong></a> &nbsp;•&nbsp;
+  <a href="./README.pt-BR.md"><strong>🇧🇷 Português</strong></a> &nbsp;•&nbsp;
+  <a href="./README.ar.md"><strong>🇸🇦 العربية</strong></a>
 </p>
 
 <a href="https://github.com/KRCUPRO">
@@ -13,7 +19,7 @@
 
 <p align="center">
   <a href="https://github.com/KRCUPRO">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=%EA%B2%AC%EA%B3%A0%ED%95%9C+%EB%B0%B1%EC%97%94%EB%93%9C+%EB%B0%8F+%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C+%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C+%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98+%EA%B5%AC%EC%B6%95;NixOS%EC%99%80+Kubernetes+%EA%B8%B0%EB%B0%98+%EC%84%A0%EC%96%B8%EC%A0%81+%EC%9D%B8%ED%94%84%EB%9D%BC+%EC%9E%90%EB%8F%99%ED%99%94;Go%EC%99%80+TypeScript%EB%A1%9C+%EA%B0%9C%EB%B0%9C%ED%95%98%EB%8A%94+%EA%B3%A0%EC%84%B1%EB%8A%A5+%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4;%EB%B3%B5%EC%9E%A1%ED%95%9C+%EB%AC%B8%EC%A0%9C%EB%A5%BC+%EB%8B%A8%EC%88%9C%ED%95%98%EA%B3%A0+%EA%B9%94%EB%81%94%ED%95%9C+%EC%BD%94%EB%93%9C%EB%A1%9C+%ED%95%B4%EA%B2%B0" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+Reliable+Backend+%26+Cloud-Native+Systems;Automating+Declarative+Infrastructure+with+NixOS+%26+Kubernetes;Turning+Complex+Problems+into+Clean%2C+Maintainable+Code;Crafting+Performant+Microservices+in+Go+%26+TypeScript" alt="Typing SVG" />
   </a>
 </p>
 
