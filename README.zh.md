@@ -39,6 +39,10 @@
 
 ---
 
+<p align="center">
+  <img src="./assets/architecture-zh.svg" alt="Architecture Diagram" width="100%">
+</p>
+
 ### 🏛️ 核心工程支柱与架构设计
 
 #### 1. 🌐 裸金属基础设施与声明式GitOps
