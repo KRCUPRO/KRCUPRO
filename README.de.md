@@ -39,6 +39,10 @@ Ich entwickle Systeme, bei denen **deklarative Reproduzierbarkeit auf Spitzenlei
 
 ---
 
+<p align="center">
+  <img src="./assets/architecture-de.svg" alt="Architecture Diagram" width="100%">
+</p>
+
 ### 🏛️ Engineering-Säulen & Kernarchitekturen
 
 #### 1. 🌐 Bare-Metal-Infrastruktur & Deklaratives GitOps
