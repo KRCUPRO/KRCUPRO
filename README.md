@@ -24,9 +24,9 @@
 
 ### 💡 Executive Overview
 
-Hi, I am **KRCUPRO (조효준)** — a Systems & Cloud-Native Platform Engineer specializing in declarative bare-metal infrastructure, distributed storage, high-throughput AI gateways, and autonomous agent runtimes.
+Hi, I am **KRCUPRO (조효준)** — a Systems & Autonomous AI Agent Architect specializing in declarative bare-metal infrastructure, high-throughput AI gateways, MCP runtimes, and low-level systems & forensics.
 
-I design systems where **declarative reproducibility meets high-performance execution**: from 4-node physical NixOS clusters running Ceph storage to native Go supervisors steering distributed MCP pipelines and zero-downtime microservices.
+I design systems where **declarative reproducibility meets high-performance execution**: from 4-node physical NixOS clusters running Ceph storage to native Go supervisors steering distributed MCP pipelines, autonomous agent runtimes, and low-level security tooling.
 
 ---
 
