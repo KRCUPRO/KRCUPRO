@@ -1,17 +1,8 @@
 <div align="center">
 
-<p align="center">
-  <a href="./README.md"><strong>🇺🇸 English</strong></a> &nbsp;•&nbsp;
-  <a href="./README.ko.md"><strong>🇰🇷 한국어</strong></a> &nbsp;•&nbsp;
-  <a href="./README.ja.md"><strong>🇯🇵 日本語</strong></a> &nbsp;•&nbsp;
-  <a href="./README.zh.md"><strong>🇨🇳 简体中文</strong></a> &nbsp;•&nbsp;
-  <a href="./README.es.md"><strong>🇪🇸 Español</strong></a><br />
-  <a href="./README.fr.md"><strong>🇫🇷 Français</strong></a> &nbsp;•&nbsp;
-  <a href="./README.de.md"><strong>🇩🇪 Deutsch</strong></a> &nbsp;•&nbsp;
-  <a href="./README.ru.md"><strong>🇷🇺 Русский</strong></a> &nbsp;•&nbsp;
-  <a href="./README.pt-BR.md"><strong>🇧🇷 Português</strong></a> &nbsp;•&nbsp;
-  <a href="./README.ar.md"><strong>🇸🇦 العربية</strong></a>
-</p>
+| [🇰🇷 한국어](./README.ko.md) | [🇺🇸 English](./README.md) | [🇯🇵 日本語](./README.ja.md) | [🇨🇳 简体中文](./README.zh.md) | [🇪🇸 Español](./README.es.md) |
+| :---: | :---: | :---: | :---: | :---: |
+| [🇫🇷 Français](./README.fr.md) | [🇩🇪 Deutsch](./README.de.md) | [🇷🇺 Русский](./README.ru.md) | [🇧🇷 Português](./README.pt-BR.md) | [🇸🇦 العربية](./README.ar.md) |
 
 <a href="https://github.com/KRCUPRO">
   <img src="./assets/hero.svg" alt="KRCUPRO Hero Banner" width="100%" />
